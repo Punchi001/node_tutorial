@@ -1,0 +1,13 @@
+This is the first text file
+
+// Write a program that allows  ateacher to enter 5 subjects 
+sum the subjects and grade the subjects.
+the grade shall displayed notifying the 
+teacher the person has passed or failed.
+...
+
+1.create an input function 
+2.create variables that can hold the value of the given subjects
+3.create a variable that holds the sum of the subjects
+4.grade the subjects
+5. display the grade.
